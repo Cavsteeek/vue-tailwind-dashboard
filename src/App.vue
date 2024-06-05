@@ -1,5 +1,5 @@
 <template>
-  <div>Hello DEV OP</div>
+  <div class="bg-gray-800">Hello DEV OP</div>
 </template>
 
 <script>
